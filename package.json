@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-dark-demo",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A demo on using Theme Providers and the useDarkMode with Gatsby",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Clark Newell <williamcnewell@gmail.com> and Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "^4.3.0",
     "gatsby-plugin-gatsby-cloud": "^4.3.0",
