@@ -23,6 +23,7 @@ body.light-mode {
 }
 body.dark-mode {
   color: #fff;
+  background-color: rebeccapurple;
 }
 article,
 aside,
