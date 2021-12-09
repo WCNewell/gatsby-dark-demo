@@ -12,7 +12,7 @@ const IndexPage = () => (
       style={{
         display: "flex",
         flexDirection: "column",
-        justifyContent: "center",
+        alignItems: "center",
       }}
     >
       <h1>Hi people</h1>
@@ -20,6 +20,7 @@ const IndexPage = () => (
       <StaticImage
         src="../images/gatsby-astronaut.png"
         width={300}
+        layout="fixed"
         quality={95}
         formats={["auto", "webp", "avif"]}
         alt="A Gatsby astronaut"
